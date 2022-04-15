@@ -1,13 +1,12 @@
-# Espanso External Repo Template
+# MartyLouis Espanso Packages
 
-This is a template repository you can use as a starting point to host
-your Espanso packages outside the Hub.
+Text expansion packages for the following:
 
-In general, this template should be used if you plan to share your packages
-privately, for example with your company's team.
-
-If you plan to publish your packages publicly, we highly recommend
-publishing them inside the [Espanso Hub](https://github.com/espanso/hub) instead.
+- quick
+- dates
+- zoom
+- forms
+- images!
 
 ## Usage
 

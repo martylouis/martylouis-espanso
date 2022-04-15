@@ -1,0 +1,22 @@
+matches:
+  - trigger: "dtt"
+    replace: "{{today}}"
+    vars:
+      - name: today
+        type: date
+        params:
+          format: "%Y-%m-%d"
+  - trigger: "dtnow"
+    replace: "{{now}}"
+    vars:
+      - name: now
+        type: date
+        params:
+          format: "%Y-%m-%d %I:%M %p"
+  - trigger: "dti"
+    replace: "{{isoDate}}"
+    vars:
+      - name: isoDate
+        type: date
+        params:
+          format: "%+"
