@@ -10,7 +10,7 @@ espanso install dates --git https://github.com/martylouis/martylouis-espanso --e
 
 ## Usage
 
-| Trigger  | Replace | Description |
-|---|---|---|
-| `dtt`  | `%Y-%m-%d` | common date |
-| `dti`  | `%+` | ISO Date |
+| Trigger | Replace    | Description |
+| ------- | ---------- | ----------- |
+| `dtt`   | `%Y-%m-%d` | common date |
+| `dti`   | `%+`       | ISO Date    |
